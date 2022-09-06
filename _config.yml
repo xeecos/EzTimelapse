@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://timelapse.ezeyes.cm=n
+url: https://timelapse.ezeyes.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,4 +102,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: git@github.com:xeecos/EzTimelapse.git
+  branch: gh-pages
+  message: update
+  name: xeecos
+  email: flashindream@gmail.com
