@@ -25,6 +25,6 @@ Deflickering a time-lapse video involves reducing or eliminating the variations 
  * Select the export resolution. Max video supports 3840x2160px.
  * Select the video fps.
 
-3. Export Your Sequence:
+5. Export Your Sequence:
 
  * Once you're satisfied with the adjustments, export your time-lapse sequence as a video file or processed images.
