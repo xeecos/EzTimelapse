@@ -117,10 +117,10 @@ darkmode: true
 # External url should start with http:// or https://
 menu:
   Home: / || fa fa-home
-  Mac App Store: https://apps.apple.com/us/app/eztimelapse/id6467549138 || fa fa-user
+  Mac App Store: https://apps.apple.com/us/app/eztimelapse/id6467549138 || fa fa-apple
   # 产品: /tags/ || fa fa-tags
   Youtube: https://www.youtube.com/@cooltech8400 || fa fa-calendar
-  # 小店: https://shop556338715.taobao.com/ || fa fa-th
+  Contact Us: mailto:sparklesineye@gmail.com || fa fa-user
   # archives: /archives/ || fa fa-archive
   # sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
