@@ -4,11 +4,11 @@
 
 # Site
 title: EzTimelapse
-subtitle: '开源延时摄影平台'
-description: '基于ESP32开源延时摄影平台，模组化设计，无限扩展。'
-keywords: ESP32 Arduino 摄像头 Robotics 机器人
-author: 虎子哥
-language: zh-CN
+subtitle: 'deflicker and startrails'
+description: 'EZTimelapse is an Application for removing time-lapse flicker and create stunning Startrail-images by just a few clicks. It will automatically de-flicker the time-lapse sequence. User-friendly interface makes  processing simple for amateurs and professionals. You can create beautiful flicker-free sunrise, cloud, day to night, city sequence time lapse easily. '
+keywords: deflicker startrails Timelapse video mac 4k
+author: xeecos
+language: en
 timezone: ''
 
 # URL

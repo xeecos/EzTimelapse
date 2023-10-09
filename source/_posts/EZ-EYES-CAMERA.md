@@ -1,6 +1,8 @@
-title: EZ-EYES CAMERA
+title: 'How to Fix Flicker Quickly and Easily, EzTimelapse Deflicker Tool Tutorial'
 author: 虎子哥
 date: 2022-09-06 16:01:58
 tags:
 ---
-<iframe src="//player.bilibili.com/player.html?aid=557814827&bvid=BV1Be4y1o7Th&cid=827346720&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRoPPejIsqk?si=6NzxgzLCtdtabcVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Mac App Store Link:  https://apps.apple.com/us/app/eztimelapse/id6467549138

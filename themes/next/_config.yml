@@ -89,7 +89,7 @@ creative_commons:
   license: by-nc-sa
   sidebar: false
   post: false
-  language:
+  language: en
 
 
 # ---------------------------------------------------------------
@@ -116,11 +116,11 @@ darkmode: true
 # When running the site in a subdirectory (e.g. yoursite.com/blog), remove the leading slash from link value (/archives -> archives).
 # External url should start with http:// or https://
 menu:
-  首页: / || fa fa-home
-  论坛: https://github.com/xeecos/EzTimelapse/issues || fa fa-user
-  产品: /tags/ || fa fa-tags
-  文档: https://github.com/xeecos/EzTimelapse/wiki || fa fa-calendar
-  小店: https://shop556338715.taobao.com/ || fa fa-th
+  Home: / || fa fa-home
+  Mac App Store: https://apps.apple.com/us/app/eztimelapse/id6467549138 || fa fa-user
+  # 产品: /tags/ || fa fa-tags
+  Youtube: https://www.youtube.com/@cooltech8400 || fa fa-calendar
+  # 小店: https://shop556338715.taobao.com/ || fa fa-th
   # archives: /archives/ || fa fa-archive
   # sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -390,7 +390,7 @@ bookmark:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: false
-  permalink: https://github.com/yourname
+  permalink: https://github.com/xeecos
   title: Follow me on GitHub
 
 
@@ -619,7 +619,7 @@ valine:
   avatar: mm # Gravatar style
   guest_info: nick,mail,link # Custom comment header
   pageSize: 10 # Pagination size
-  language: # Language, available values: en, zh-cn
+  language: en # Language, available values: en, zh-cn
   visitor: false # Article reading statistic
   comment_count: true # If false, comment count will only be displayed in post page, not in home page
   recordIP: false # Whether to record the commenter IP
@@ -670,13 +670,13 @@ add_this_id:
 
 # Google Analytics
 google_analytics:
-  tracking_id: 4039128606
+  tracking_id: UA-41764296-4
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
 
 # Baidu Analytics
-baidu_analytics: 39179f57e46b6e7e2889ba12fc27d8d8
+baidu_analytics: 
 
 # Growingio Analytics
 growingio_analytics: # <project_id>
