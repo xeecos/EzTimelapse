@@ -108,3 +108,6 @@ deploy:
   message: update
   name: xeecos
   email: flashindream@gmail.com
+
+admin:
+  deployCommand: './hexo-deploy.sh'
