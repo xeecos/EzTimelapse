@@ -117,10 +117,10 @@ darkmode: true
 # External url should start with http:// or https://
 menu:
   Home: / || fa fa-home
-  Mac App Store: https://apps.apple.com/us/app/eztimelapse/id6467549138 || fa fa-apple
+  Mac App Store: https://apps.apple.com/us/app/eztimelapse/id6467549138 || fab fa-app-store
   # 产品: /tags/ || fa fa-tags
-  Youtube: https://www.youtube.com/@cooltech8400 || fa fa-calendar
-  Contact Us: mailto:sparklesineye@gmail.com || fa fa-user
+  Youtube: https://www.youtube.com/@cooltech8400 || fab fa-youtube
+  Contact Us: mailto:sparklesineye@gmail.com || fa fa-envelope
   # archives: /archives/ || fa fa-archive
   # sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -670,7 +670,7 @@ add_this_id:
 
 # Google Analytics
 google_analytics:
-  tracking_id: UA-41764296-4
+  tracking_id: 410533671
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
