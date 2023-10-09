@@ -995,7 +995,3 @@ vendors:
 css: css
 js: js
 images: images
-
-auto_excerpt:
-  enable: true
-  length: 150

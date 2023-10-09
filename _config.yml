@@ -111,3 +111,9 @@ deploy:
 
 admin:
   deployCommand: './hexo-deploy.sh'
+
+excerpt:
+  depth: 5  
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
