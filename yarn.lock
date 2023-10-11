@@ -334,6 +334,11 @@ bluebird@^3.2.2, bluebird@^3.4.0, bluebird@^3.5.0, bluebird@^3.5.1, bluebird@^3.
   resolved "https://registry.npmmirror.com/bluebird/-/bluebird-3.7.2.tgz"
   integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
 
+bluebird@3.5.4:
+  version "3.5.4"
+  resolved "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+  integrity sha512-FG+nFEZChJrbQ9tIccIfZJBz3J7mLrAhxakAbnrJWn8d7aKOC+LWifa0G+p4ZqKp4y13T7juYvdhq9NzKdsrjw==
+
 bn.js@^4.0.0:
   version "4.12.0"
   resolved "https://registry.npmmirror.com/bn.js/-/bn.js-4.12.0.tgz"
@@ -1255,6 +1260,11 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.8.5"
 
+ejs@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.npmjs.org/ejs/-/ejs-2.6.1.tgz"
+  integrity sha512-0xy4A/twfrRCnkhfk8ErDi5DqdAsAqeGxht4xkCUrsvhhbQNs7E+4jV0CN7+NKIY0aHE72+XvqtBIXzD31ZbXQ==
+
 elliptic@^6.5.3:
   version "6.5.4"
   resolved "https://registry.npmmirror.com/elliptic/-/elliptic-6.5.4.tgz"
@@ -1885,14 +1895,17 @@ hexo-generator-index@^3.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
-hexo-generator-sitemap@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/hexo-generator-sitemap/-/hexo-generator-sitemap-3.0.1.tgz"
-  integrity sha512-n+0KLNmq6TLbiZPTQF6NY5MbEem/O+DFx0lgQZNQcU4tdjXIZRrQJs+KRKeT66NTkdlYTqb4WwCxswLqQz0crA==
+hexo-generator-seo-friendly-sitemap@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.npmjs.org/hexo-generator-seo-friendly-sitemap/-/hexo-generator-seo-friendly-sitemap-0.2.1.tgz"
+  integrity sha512-DtEulX/7U2X4bRLztb6cDtHEvtwhEPSaL6shaxNtk2oPljJlnep9vFGGlF3KvTD1XADxSOtvVHd3RKWZEXl9WA==
   dependencies:
-    hexo-util "^2.1.0"
-    micromatch "^4.0.2"
-    nunjucks "^3.1.6"
+    bluebird "3.5.4"
+    ejs "2.6.1"
+    lodash "4.17.12"
+    moment "2.24.0"
+    pretty-data "0.40.0"
+    url-join "4.0.0"
 
 hexo-generator-tag@^1.0.0:
   version "1.0.0"
@@ -2659,6 +2672,11 @@ lodash.memoize@~3.0.3:
   resolved "https://registry.npmmirror.com/lodash.memoize/-/lodash.memoize-3.0.4.tgz"
   integrity sha512-eDn9kqrAmVUC1wmZvlQ6Uhde44n+tXpqPrN8olQJbttgh0oKclk+SF54P47VEGE9CEiMeRwAP8BaM7UHvBkz2A==
 
+lodash@4.17.12:
+  version "4.17.12"
+  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.12.tgz"
+  integrity sha512-+CiwtLnsJhX03p20mwXuvhoebatoh5B3tt+VvYlrPgZC1g36y+RRbkufX95Xa+X4I59aWEacDFYwnJZiyBh9gA==
+
 lower-case@^2.0.2:
   version "2.0.2"
   resolved "https://registry.npmmirror.com/lower-case/-/lower-case-2.0.2.tgz"
@@ -2745,7 +2763,7 @@ micromatch@^3.1.10:
     snapdragon "^0.8.1"
     to-regex "^3.0.2"
 
-micromatch@^4.0.2, micromatch@^4.0.4:
+micromatch@^4.0.4:
   version "4.0.5"
   resolved "https://registry.npmmirror.com/micromatch/-/micromatch-4.0.5.tgz"
   integrity sha512-DMy+ERcEW2q8Z2Po+WNXuw3c5YaUSFjAO5GsJqfEl7UjvtIuFKO6ZrKvcItdy98dwFI2N1tg3zNIdKaQT+aNdA==
@@ -2896,6 +2914,11 @@ moment@^2.18.0, moment@^2.29.1, moment@^2.7.0, "moment@>= 2.9.0":
   resolved "https://registry.npmmirror.com/moment/-/moment-2.29.4.tgz"
   integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
+moment@2.24.0:
+  version "2.24.0"
+  resolved "https://registry.npmjs.org/moment/-/moment-2.24.0.tgz"
+  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+
 morgan@^1.9.1:
   version "1.10.0"
   resolved "https://registry.npmmirror.com/morgan/-/morgan-1.10.0.tgz"
@@ -2986,7 +3009,7 @@ nth-check@^2.0.1:
   dependencies:
     boolbase "^1.0.0"
 
-nunjucks@^3.1.6, nunjucks@^3.2.1, nunjucks@^3.2.3:
+nunjucks@^3.2.1, nunjucks@^3.2.3:
   version "3.2.3"
   resolved "https://registry.npmmirror.com/nunjucks/-/nunjucks-3.2.3.tgz"
   integrity sha512-psb6xjLj47+fE76JdZwskvwG4MYsQKXUtMsPh6U0YMvmyjRtKRFcxnlXGWglNybtNTNVmGdp94K62/+NjF5FDQ==
@@ -3249,6 +3272,11 @@ preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.npmmirror.com/preserve/-/preserve-0.2.0.tgz"
   integrity sha512-s/46sYeylUfHNjI+sA/78FAHlmIuKqI9wNnzEOGehAlUUYeObv5C2mOinXBjyUyWmJ2SfcS2/ydApH4hTF4WXQ==
+
+pretty-data@0.40.0:
+  version "0.40.0"
+  resolved "https://registry.npmjs.org/pretty-data/-/pretty-data-0.40.0.tgz"
+  integrity sha512-YFLnEdDEDnkt/GEhet5CYZHCvALw6+Elyb/tp8kQG03ZSIuzeaDWpZYndCXwgqu4NAjh1PI534dhDS1mHarRnQ==
 
 pretty-hrtime@^1.0.3:
   version "1.0.3"
@@ -4218,6 +4246,11 @@ urix@^0.1.0:
   version "0.1.0"
   resolved "https://registry.npmmirror.com/urix/-/urix-0.1.0.tgz"
   integrity sha512-Am1ousAhSLBeB9cG/7k7r2R0zj50uDRlZHPGbazid5s9rlF1F/QKYObEKSIunSjIOkJZqwRRLpvewjEkM7pSqg==
+
+url-join@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npmjs.org/url-join/-/url-join-4.0.0.tgz"
+  integrity sha512-EGXjXJZhIHiQMK2pQukuFcL303nskqIRzWvPvV5O8miOfwoUb9G+a/Cld60kUyeaybEI94wvVClT10DtfeAExA==
 
 url-parse@^1.5.3:
   version "1.5.10"
