@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://timelapse.ezeyes.cn
-permalink: posts/:abbrlink/
+permalink: posts/:abbrlink
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -24,7 +24,7 @@ abbrlink:
   rep: hex
   drafts: false   #(true)Process draft,(false)Do not process draft. false(default) 
   auto_category:
-    enable: true  #true(default)
+    enable: false  #true(default)
     depth:        #3(default)
     over_write: false 
 # Directory
