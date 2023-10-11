@@ -1,9 +1,11 @@
+---
 title: How to Deflicker a Timelapse
 author: xeecos
 tags:
   - deflicker
 categories:
   - timelapse
+abbrlink: 3590293967
 date: 2022-10-09 17:09:00
 ---
 Deflickering a time-lapse video involves reducing or eliminating the variations in brightness or exposure that can occur between individual frames, resulting in a flickering effect. This can happen due to changes in lighting conditions, automatic exposure adjustments, or other factors. Here's how you can deflicker a time-lapse video using software like EzTimelapse:

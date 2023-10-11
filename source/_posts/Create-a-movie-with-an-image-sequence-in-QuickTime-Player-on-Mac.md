@@ -1,9 +1,11 @@
+---
 title: Create a movie with an image sequence in QuickTime Player on Mac
 author: xeecos
 tags:
   - timelapse
 categories:
   - timelapse
+abbrlink: 3124596687
 date: 2022-10-09 16:49:00
 ---
 You can convert an image sequence——a set of sequentially numbered or named images—to a movie or time-lapse video in QuickTime Player.

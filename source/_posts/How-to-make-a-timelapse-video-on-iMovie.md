@@ -1,3 +1,4 @@
+---
 title: How to make a timelapse video on iMovie
 author: xeecos
 tags:
@@ -6,6 +7,7 @@ tags:
   - macbook
 categories:
   - timelapse
+abbrlink: 4115825799
 date: 2022-10-09 16:55:00
 ---
 Creating a time-lapse video with iMovie is a straightforward process. Here's a step-by-step guide to help you make a time-lapse using iMovie:

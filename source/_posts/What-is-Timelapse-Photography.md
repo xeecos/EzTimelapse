@@ -1,7 +1,9 @@
+---
 title: What is Timelapse Photography?
 author: 虎子哥
 tags: []
 categories: []
+abbrlink: 2515622982
 date: 2023-10-09 15:11:00
 ---
 Time-lapse photography is a technique in which a series of photos are taken at regular intervals over a period of time and then played back at a faster speed, creating the illusion of time passing quickly. This technique is often used to capture slow processes that are not easily noticeable in real-time, such as the movement of clouds, the blooming of flowers, or the construction of buildings.

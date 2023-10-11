@@ -1,3 +1,4 @@
+---
 title: Which is the best software for editing time lapse videos?
 author: 虎子哥
 tags:
@@ -5,6 +6,7 @@ tags:
   - deflicker
 categories:
   - deflicker
+abbrlink: 966788691
 date: 2023-10-09 20:06:00
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBHCkTt73Fk?si=RYCodK4P26F88yfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
