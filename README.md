@@ -1,15 +1,11 @@
-# EzTimelapse - 开源延时摄影平台
+# EzTimelapse
  
-#### [官网](https://timelapse.ezeyes.cn/ '官网')  |  [论坛](https://github.com/xeecos/EzTimelapse/issues '首页')  |   [技术文档](https://github.com/xeecos/EzTimelapse/wiki '技术文档')  |   [官方小店](https://shop556338715.taobao.com/ '淘宝店铺')
+#### https://timelapse.ezeyes.cn/ 
 
-#### 简介
+EzTimelapse is an innovative application developed specifically for the Mac operating system, focusing on addressing the common flickering issues in time-lapse photography projects. Whether you are a professional photographer or a photography enthusiast, you know that flickering problems in time-lapse photography can leave flaws in the final time-lapse video. That's where EzTimelapse comes into play.
 
-coming soon
+This application features powerful deflickering technology, capable of intelligently identifying and eliminating flickering phenomena in photo sequences, ensuring the final time-lapse video is smooth, seamless, and high-quality. EzTimelapse boasts a user-friendly interface design, making it easy for beginners to grasp its functions. Additionally, it offers a range of advanced editing tools, assisting users in further optimizing and customizing their time-lapse creations.
 
-#### 产品
+Whether you are capturing cityscapes, sunrises, sunsets, starry skies, or natural landscapes, EzTimelapse can help you eliminate flickering issues in your photos, making your time-lapse works more captivating and impressive. You don't have to worry about complex post-processing; EzTimelapse provides you with a simple yet efficient solution, elevating your photography creations to the next level.
 
-coming soon
-
-#### 作品集
-
-coming soon
+Mac App Store: https://apps.apple.com/us/app/eztimelapse/id6467549138
