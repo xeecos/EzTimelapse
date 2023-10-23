@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>How to Fix Flicker Quickly and Easily, EzTimelapse Deflicker Tool Tutorial</title>
+    <url>/posts/4109119664/</url>
+    <content><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/pRoPPejIsqk?si=6NzxgzLCtdtabcVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Mac App Store Link:  <a href="https://apps.apple.com/us/app/eztimelapse/id6467549138">https://apps.apple.com/us/app/eztimelapse/id6467549138</a></p>
+]]></content>
+      <categories>
+        <category>Tutorial</category>
+      </categories>
+      <tags>
+        <tag>timelapse</tag>
+        <tag>deflicker</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Create a movie with an image sequence in QuickTime Player on Mac</title>
     <url>/posts/3124596687/</url>
     <content><![CDATA[<p>You can convert an image sequence——a set of sequentially numbered or named images—to a movie or time-lapse video in QuickTime Player.</p>
@@ -36,16 +51,43 @@
       </tags>
   </entry>
   <entry>
-    <title>How to Create Timelapse Video?</title>
-    <url>/posts/1657208627/</url>
-    <content><![CDATA[<p><img src="/assets/remote-timer-nikon.jpg" alt="remote-timer"></p>
-<p>Creating a time-lapse video involves capturing a series of photos at regular intervals and then compiling them into a video format. Here’s a step-by-step guide to creating a time-lapse video:</p>
-<h3 id="Equipment-and-Preparation"><a href="#Equipment-and-Preparation" class="headerlink" title="Equipment and Preparation:"></a>Equipment and Preparation:</h3><p>Camera: Use a digital camera with manual settings or a smartphone with a time-lapse feature.<br>Tripod: Ensure your camera is stable to avoid shaky footage.<br>Power: Make sure your camera has a constant power source to prevent it from running out of battery during the shoot.<br>Frame the Shot: Choose a compelling subject and frame your shot. Consider the composition and the movement within the frame.</p>
-<h3 id="Camera-Settings"><a href="#Camera-Settings" class="headerlink" title="Camera Settings:"></a>Camera Settings:</h3><p>Manual Mode: Use manual mode to control exposure settings (aperture, shutter speed, ISO) to maintain consistent lighting throughout the time-lapse.<br>Focus: Set the focus to manual to prevent the camera from refocusing between shots.<br>Interval: Set the interval between shots. This could be a few seconds to a few minutes, depending on the speed you want for your time-lapse.<br>Number of Shots: Determine how many photos you need to capture. This depends on the total duration of the event and the frame rate you want for the final video.</p>
-<h3 id="Capture-the-Photos"><a href="#Capture-the-Photos" class="headerlink" title="Capture the Photos:"></a>Capture the Photos:</h3><p>Start Shooting: Begin the time-lapse sequence and let the camera capture photos at the set intervals.<br>Monitor: Keep an eye on the camera to ensure it’s functioning properly and the composition remains unchanged.</p>
-<h3 id="Post-Processing"><a href="#Post-Processing" class="headerlink" title="Post-Processing:"></a>Post-Processing:</h3><p>Transfer Photos: Transfer the captured photos to your computer.<br>Editing: Use photo editing software (such as Adobe Lightroom) to enhance the photos if necessary.<br>Batch Editing: If required, you can apply edits to all photos simultaneously to maintain consistency.</p>
-<h3 id="Create-the-Time-Lapse-Video"><a href="#Create-the-Time-Lapse-Video" class="headerlink" title="Create the Time-Lapse Video:"></a>Create the Time-Lapse Video:</h3><p>Choose a Video Editing Software: Use video editing software like EzTimelapse, Adobe Premiere Pro, Final Cut Pro, iMovie (for Mac), or even free options like DaVinci Resolve or Shotcut.<br>Import Photos: Import all the edited photos into the video editing software.<br>Set Frame Duration: Adjust the duration each photo is displayed to create the desired speed. For example, if your video will be 30 frames per second (fps) and you captured one photo every 5 seconds, set each photo to be displayed for 1&#x2F;30th of a second.<br>Add Music (Optional): If desired, you can add background music or narration to the video.<br>Export: Once you’re satisfied with the video, export it in your preferred format and resolution.</p>
-<h3 id="Share-Your-Time-Lapse"><a href="#Share-Your-Time-Lapse" class="headerlink" title="Share Your Time-Lapse:"></a>Share Your Time-Lapse:</h3><p>Save and Share: Save the final video on your computer and share it on social media platforms, video sharing websites, or other platforms where you want to showcase your work.<br>Remember, creating a compelling time-lapse video takes practice and experimentation. Don’t be afraid to try different intervals, framing, and editing techniques to achieve the desired effect.</p>
+    <title>How To Make a Time Lapse Video of Plants Growing？</title>
+    <url>/posts/ce124acd/</url>
+    <content><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/Jl-FWUuVuRM?si=R4GN-KA2voeE2nxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<ul>
+<li><p>step 1: Choose Your Plant<br>Knowing your plant’s behaviour can help you gauge how big or fast the movements will be. This allows you to plan for the best interval timing for achieving a smooth video output, while ensuring that your subject stays within the frame. It also allows you to pick out the angle that best features your subject. waterlilies usually bloom from mid-morning to mid-afternoon, and its blooming time is about 2-4 hours.</p>
+</li>
+<li><p>step 2：Camera Equipment</p>
+</li>
+<li><ol>
+<li>We need to mount camera in a way that ensures it won’t move. We use a sturdy tripod.</li>
+</ol>
+</li>
+<li><ol start="2">
+<li>We need AC Power Supply: Not moving the camera means you can’t change the battery. You will need to get yourself a dedicated power supply for your camera.</li>
+</ol>
+</li>
+<li><ol start="3">
+<li>You can’t be touching the camera at all during a time-lapse recording. Even triggering the shutter for the first time can cause unwanted shake or motion blur. The simplest way to overcome this is to use a remote shutter release – a small IR or Bluetooth device with a button like a remote control. If your camera is relatively new, Most digital DSLR and mirrorless cameras feature a built-in intervalometer. This allows you to take a certain number of images at a specific frame interval.</li>
+</ol>
+</li>
+<li><p>step 3:Camera Setting</p>
+</li>
+<li><ol>
+<li>We need Calculate Time Lapse Intervals:if the flower blooming time is 3-4 hours, an interval of between 10 and 20 seconds is best.</li>
+</ol>
+</li>
+<li><ol start="2">
+<li>Start shooting</li>
+</ol>
+</li>
+<li><p>step 4：Edit your Time-Lapse Photography<br>You need to find some software that has the ability to make time-lapses from photos.</p>
+</li>
+</ul>
+<p>EZTimelapse is a mac Application for converting images into time-lapsed video and removing time-lapse flicker. User-friendly interface makes processing simple for amateurs and professionals. Supports workflow that imports JPEG images and output MP4 video&#x2F;JPEG images.</p>
+<p>EZTimelapse can also automatically de-flicker the time-lapse sequence.</p>
+<p>OK! you’re done!</p>
 ]]></content>
   </entry>
   <entry>
@@ -88,21 +130,6 @@
         <category>timelapse</category>
       </categories>
       <tags>
-        <tag>deflicker</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How to Fix Flicker Quickly and Easily, EzTimelapse Deflicker Tool Tutorial</title>
-    <url>/posts/4109119664/</url>
-    <content><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/pRoPPejIsqk?si=6NzxgzLCtdtabcVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<p>Mac App Store Link:  <a href="https://apps.apple.com/us/app/eztimelapse/id6467549138">https://apps.apple.com/us/app/eztimelapse/id6467549138</a></p>
-]]></content>
-      <categories>
-        <category>Tutorial</category>
-      </categories>
-      <tags>
-        <tag>timelapse</tag>
         <tag>deflicker</tag>
       </tags>
   </entry>
@@ -206,6 +233,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>How to Create Timelapse Video?</title>
+    <url>/posts/1657208627/</url>
+    <content><![CDATA[<p><img src="/assets/remote-timer-nikon.jpg" alt="remote-timer"></p>
+<p>Creating a time-lapse video involves capturing a series of photos at regular intervals and then compiling them into a video format. Here’s a step-by-step guide to creating a time-lapse video:</p>
+<h3 id="Equipment-and-Preparation"><a href="#Equipment-and-Preparation" class="headerlink" title="Equipment and Preparation:"></a>Equipment and Preparation:</h3><p>Camera: Use a digital camera with manual settings or a smartphone with a time-lapse feature.<br>Tripod: Ensure your camera is stable to avoid shaky footage.<br>Power: Make sure your camera has a constant power source to prevent it from running out of battery during the shoot.<br>Frame the Shot: Choose a compelling subject and frame your shot. Consider the composition and the movement within the frame.</p>
+<h3 id="Camera-Settings"><a href="#Camera-Settings" class="headerlink" title="Camera Settings:"></a>Camera Settings:</h3><p>Manual Mode: Use manual mode to control exposure settings (aperture, shutter speed, ISO) to maintain consistent lighting throughout the time-lapse.<br>Focus: Set the focus to manual to prevent the camera from refocusing between shots.<br>Interval: Set the interval between shots. This could be a few seconds to a few minutes, depending on the speed you want for your time-lapse.<br>Number of Shots: Determine how many photos you need to capture. This depends on the total duration of the event and the frame rate you want for the final video.</p>
+<h3 id="Capture-the-Photos"><a href="#Capture-the-Photos" class="headerlink" title="Capture the Photos:"></a>Capture the Photos:</h3><p>Start Shooting: Begin the time-lapse sequence and let the camera capture photos at the set intervals.<br>Monitor: Keep an eye on the camera to ensure it’s functioning properly and the composition remains unchanged.</p>
+<h3 id="Post-Processing"><a href="#Post-Processing" class="headerlink" title="Post-Processing:"></a>Post-Processing:</h3><p>Transfer Photos: Transfer the captured photos to your computer.<br>Editing: Use photo editing software (such as Adobe Lightroom) to enhance the photos if necessary.<br>Batch Editing: If required, you can apply edits to all photos simultaneously to maintain consistency.</p>
+<h3 id="Create-the-Time-Lapse-Video"><a href="#Create-the-Time-Lapse-Video" class="headerlink" title="Create the Time-Lapse Video:"></a>Create the Time-Lapse Video:</h3><p>Choose a Video Editing Software: Use video editing software like EzTimelapse, Adobe Premiere Pro, Final Cut Pro, iMovie (for Mac), or even free options like DaVinci Resolve or Shotcut.<br>Import Photos: Import all the edited photos into the video editing software.<br>Set Frame Duration: Adjust the duration each photo is displayed to create the desired speed. For example, if your video will be 30 frames per second (fps) and you captured one photo every 5 seconds, set each photo to be displayed for 1&#x2F;30th of a second.<br>Add Music (Optional): If desired, you can add background music or narration to the video.<br>Export: Once you’re satisfied with the video, export it in your preferred format and resolution.</p>
+<h3 id="Share-Your-Time-Lapse"><a href="#Share-Your-Time-Lapse" class="headerlink" title="Share Your Time-Lapse:"></a>Share Your Time-Lapse:</h3><p>Save and Share: Save the final video on your computer and share it on social media platforms, video sharing websites, or other platforms where you want to showcase your work.<br>Remember, creating a compelling time-lapse video takes practice and experimentation. Don’t be afraid to try different intervals, framing, and editing techniques to achieve the desired effect.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Which is the best software for editing time lapse videos?</title>
     <url>/posts/966788691/</url>
     <content><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/PBHCkTt73Fk?si=RYCodK4P26F88yfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -229,46 +269,6 @@ Want a software for deflickering timelapse ？
 You just need：EzTimelapse
 
 <p>Mac App Store Link:  <a href="https://apps.apple.com/us/app/eztimelapse/id6467549138">https://apps.apple.com/us/app/eztimelapse/id6467549138</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>How To Make a Time Lapse Video of Plants Growing？</title>
-    <url>/posts/ce124acd/</url>
-    <content><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/Jl-FWUuVuRM?si=R4GN-KA2voeE2nxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<ul>
-<li><p>step 1: Choose Your Plant<br>Knowing your plant’s behaviour can help you gauge how big or fast the movements will be. This allows you to plan for the best interval timing for achieving a smooth video output, while ensuring that your subject stays within the frame. It also allows you to pick out the angle that best features your subject. waterlilies usually bloom from mid-morning to mid-afternoon, and its blooming time is about 2-4 hours.</p>
-</li>
-<li><p>step 2：Camera Equipment</p>
-</li>
-<li><ol>
-<li>We need to mount camera in a way that ensures it won’t move. We use a sturdy tripod.</li>
-</ol>
-</li>
-<li><ol start="2">
-<li>We need AC Power Supply: Not moving the camera means you can’t change the battery. You will need to get yourself a dedicated power supply for your camera.</li>
-</ol>
-</li>
-<li><ol start="3">
-<li>You can’t be touching the camera at all during a time-lapse recording. Even triggering the shutter for the first time can cause unwanted shake or motion blur. The simplest way to overcome this is to use a remote shutter release – a small IR or Bluetooth device with a button like a remote control. If your camera is relatively new, Most digital DSLR and mirrorless cameras feature a built-in intervalometer. This allows you to take a certain number of images at a specific frame interval.</li>
-</ol>
-</li>
-<li><p>step 3:Camera Setting</p>
-</li>
-<li><ol>
-<li>We need Calculate Time Lapse Intervals:if the flower blooming time is 3-4 hours, an interval of between 10 and 20 seconds is best.</li>
-</ol>
-</li>
-<li><ol start="2">
-<li>Start shooting</li>
-</ol>
-</li>
-<li><p>step 4：Edit your Time-Lapse Photography<br>You need to find some software that has the ability to make time-lapses from photos.</p>
-</li>
-</ul>
-<p>EZTimelapse is a mac Application for converting images into time-lapsed video and removing time-lapse flicker. User-friendly interface makes processing simple for amateurs and professionals. Supports workflow that imports JPEG images and output MP4 video&#x2F;JPEG images.</p>
-<p>EZTimelapse can also automatically de-flicker the time-lapse sequence.</p>
-<p>OK! you’re done!</p>
 ]]></content>
   </entry>
 </search>
